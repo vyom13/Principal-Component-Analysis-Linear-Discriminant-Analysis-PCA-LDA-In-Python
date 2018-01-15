@@ -1,4 +1,4 @@
-# Principal-Component-Analysis-Linear-Discriminant-Analysis-PCA-LDA-In-Python
+# Principal Component Analysis & Linear Discriminant Analysis PCA LDA In Python
 (40 points) **PCA and LDA**  
 In  datasetdataset1.csv,  columns  correspond  to  variables  and  there  are  twovariables namedV1andV2.  
 1.  PlotV2vsV1.  Do you see a clear separation of the raw data?  
